@@ -7,7 +7,6 @@ This project presents a dynamic and adaptive strategy for defending AI systems a
 Our project utilizes datasets from various domains, including image classification and face recognition, to evaluate the effectiveness of our proposed defense mechanism. The datasets include MNIST, GTSRB, VGG-Face, and Youtube-Face. These datasets have been preprocessed to facilitate efficient training and evaluation of our models.
 
 ## Methodology
-- **Data Preprocessing:** Standardization and normalization of datasets, handling missing values, and data augmentation.
 - **Stable Diffusion Training:** Training models using a stable diffusion algorithm to create resilient AI systems.
 - **Attack Simulation:** Implementing both white box and black box adversarial attacks, including Projected Gradient Descent (PGD) and Fast Gradient Sign Method (FGSM).
 - **Defense Mechanism:** Applying stable diffusion techniques to mitigate the impact of adversarial attacks and improve model robustness.
